@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fyle Backend Challenge
 
 ## Who is this for?
@@ -54,3 +55,7 @@ pytest -vvv -s tests/
 # pytest --cov
 # open htmlcov/index.html
 ```
+=======
+# fyle-interview-intern-backend-main
+internship solution
+>>>>>>> 44f6aa4c472a169eea2f144df6b95f7e6973c365
